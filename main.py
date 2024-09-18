@@ -8,6 +8,5 @@ def func():
         return print('You typed:'+echo)
     else:
         return print('Input string is empty')
-
-st.write(func)
-
+func()
+st.write()
