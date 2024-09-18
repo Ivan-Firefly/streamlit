@@ -5,9 +5,9 @@ st.title('ECHO')
 def func():
     echo= input("Type something:")
     if echo != '':
-        print('You typed:'+echo)
+        returnt print('You typed:'+echo)
     else:
-        print('Input string is empty')
+        returnt print('Input string is empty')
 
 st.write(func)
 
