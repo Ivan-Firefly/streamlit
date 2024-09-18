@@ -1,6 +1,6 @@
 import streamlit as st
 
-
+st.title('ECHO')
 
 def func():
     echo= input("Type something:")
